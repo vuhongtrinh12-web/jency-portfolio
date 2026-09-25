@@ -4,3 +4,5 @@
 @media(max-width:850px){.navlinks{display:none}.menu{display:block}.navlinks.open{display:flex;position:absolute;top:76px;left:0;right:0;background:var(--ivory);padding:24px;flex-direction:column;align-items:flex-start}.hero{padding:75px 0 65px}.section{padding:70px 0}.section-head,.approach,.contact,.about-grid{grid-template-columns:1fr}.work-grid,.services,.process{grid-template-columns:1fr}.project:nth-child(even){margin-top:0}.fields{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}.nav .btn{display:none}}
 
 .project-cta{margin-top:18px;padding:11px 18px;font-size:14px;width:max-content}.project-info .project-cta{color:#fff}.project-cta:hover{color:#fff}
+
+.form-status{margin:12px 0 0;font-size:13px;line-height:1.5}.form-status.success{color:#2f6b45}.form-status.error{color:#a13a2c}.form .btn[disabled]{opacity:.7;cursor:wait}
