@@ -36,9 +36,9 @@ if (projectForm) {
     event.preventDefault();
     const lang = localStorage.getItem('jency-language') || 'en';
     const messages = {
-      en: { sending:'Sending...', success:'Project submitted successfully. Thank you — I’ll get back to you soon.', submitted:'Project Submitted ✓', error:'Something went wrong. Please try again or email vuhongtrinh12@gmail.com.' },
-      vi: { sending:'Đang gửi...', success:'Dự án đã được gửi thành công. Cảm ơn bạn — tôi sẽ phản hồi sớm.', submitted:'Đã gửi dự án ✓', error:'Đã xảy ra lỗi. Vui lòng thử lại hoặc email đến vuhongtrinh12@gmail.com.' },
-      ko: { sending:'전송 중...', success:'프로젝트 문의가 성공적으로 전송되었습니다. 감사합니다. 곧 답변드리겠습니다.', submitted:'전송 완료 ✓', error:'문제가 발생했습니다. 다시 시도하거나 vuhongtrinh12@gmail.com 으로 이메일을 보내주세요.' }
+      en: { sending:'Sending...', success:'Project submitted successfully. Thank you — I’ll get back to you soon.', submitted:'Project Submitted ✓', error:'Something went wrong. Please try again or email jency.contact@gmail.com.' },
+      vi: { sending:'Đang gửi...', success:'Dự án đã được gửi thành công. Cảm ơn bạn — tôi sẽ phản hồi sớm.', submitted:'Đã gửi dự án ✓', error:'Đã xảy ra lỗi. Vui lòng thử lại hoặc email đến jency.contact@gmail.com.' },
+      ko: { sending:'전송 중...', success:'프로젝트 문의가 성공적으로 전송되었습니다. 감사합니다. 곧 답변드리겠습니다.', submitted:'전송 완료 ✓', error:'문제가 발생했습니다. 다시 시도하거나 jency.contact@gmail.com 으로 이메일을 보내주세요.' }
     }[lang];
     status.textContent = '';
     status.className = 'form-status';

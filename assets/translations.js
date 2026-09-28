@@ -86,7 +86,7 @@ const translations = {
     "phone_label": "Phone / Zalo / WhatsApp",
     "email_label": "Email",
     "footer_role_html": "Full-Stack Marketer<br>Independent Web Designer &amp; Developer",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Phone / Zalo / WhatsApp: 0355219615</a><br>Vietnam · Working worldwide",
+    "footer_contact_html": "<a href=\"mailto:jency.contact@gmail.com\">jency.contact@gmail.com</a><br><a href=\"tel:0355219615\">Phone / Zalo / WhatsApp: 0355219615</a><br>Vietnam · Working worldwide",
     "contact_location_html": "<strong>Location</strong><br>Vietnam · Working worldwide"
   },
   "vi": {
@@ -176,7 +176,7 @@ const translations = {
     "phone_label": "Điện thoại / Zalo / WhatsApp",
     "email_label": "Email",
     "footer_role_html": "Full-Stack Marketer<br>Nhà thiết kế &amp; phát triển website độc lập",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Điện thoại / Zalo / WhatsApp: 0355219615</a><br>Việt Nam · Làm việc với khách hàng toàn cầu",
+    "footer_contact_html": "<a href=\"mailto:jency.contact@gmail.com\">jency.contact@gmail.com</a><br><a href=\"tel:0355219615\">Điện thoại / Zalo / WhatsApp: 0355219615</a><br>Việt Nam · Làm việc với khách hàng toàn cầu",
     "contact_location_html": "<strong>Địa điểm</strong><br>Việt Nam · Làm việc với khách hàng toàn cầu"
   },
   "ko": {
@@ -266,7 +266,7 @@ const translations = {
     "phone_label": "전화 / Zalo / WhatsApp",
     "email_label": "이메일",
     "footer_role_html": "풀스택 마케터<br>독립 웹 디자이너 &amp; 개발자",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">전화 / Zalo / WhatsApp: 0355219615</a><br>베트남 · 전 세계 협업 가능",
+    "footer_contact_html": "<a href=\"mailto:jency.contact@gmail.com\">jency.contact@gmail.com</a><br><a href=\"tel:0355219615\">전화 / Zalo / WhatsApp: 0355219615</a><br>베트남 · 전 세계 협업 가능",
     "contact_location_html": "<strong>위치</strong><br>베트남 · 전 세계 협업 가능"
   }
 };
