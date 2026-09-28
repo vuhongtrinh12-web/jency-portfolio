@@ -6,3 +6,9 @@
 .project-cta{margin-top:18px;padding:11px 18px;font-size:14px;width:max-content}.project-info .project-cta{color:#fff}.project-cta:hover{color:#fff}
 
 .form-status{margin:12px 0 0;font-size:13px;line-height:1.5}.form-status.success{color:#2f6b45}.form-status.error{color:#a13a2c}.form .btn[disabled]{opacity:.7;cursor:wait}
+
+
+/* Language switcher */
+.language-switcher{display:flex;align-items:center;gap:6px;white-space:nowrap;margin-left:auto;margin-right:18px}.language-switcher button{appearance:none;border:0;background:transparent;color:var(--ink);padding:5px 2px;font:inherit;font-size:12px;font-weight:800;cursor:pointer;opacity:.42;transition:opacity .2s,color .2s}.language-switcher button:hover,.language-switcher button.active{opacity:1;color:var(--terra)}.language-switcher span{font-size:11px;opacity:.25}
+@media(max-width:850px){.language-switcher{margin-left:auto;margin-right:12px}.language-switcher button{font-size:11px}.nav{gap:10px}.menu{flex:0 0 auto}}
+@media(max-width:520px){.language-switcher{gap:4px;margin-right:6px}.language-switcher button{font-size:10px;padding:4px 1px}}
