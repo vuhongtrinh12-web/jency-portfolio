@@ -79,14 +79,14 @@ const translations = {
     "form_launch": "Target Launch Date",
     "form_message": "Tell Me About Your Project *",
     "form_submit": "Submit Project",
-    "phone_zalo": "Phone / Zalo: 0355219615",
+    "phone_zalo": "Phone / Zalo / WhatsApp: 0355219615",
     "copyright": "© 2026 Jency. All rights reserved.",
     "footer_role": "Full-Stack Marketer Independent Web Designer & Developer",
     "location_label": "Location",
-    "phone_label": "Phone / Zalo",
+    "phone_label": "Phone / Zalo / WhatsApp",
     "email_label": "Email",
     "footer_role_html": "Full-Stack Marketer<br>Independent Web Designer &amp; Developer",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Phone / Zalo: 0355219615</a><br>Vietnam · Working worldwide",
+    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Phone / Zalo / WhatsApp: 0355219615</a><br>Vietnam · Working worldwide",
     "contact_location_html": "<strong>Location</strong><br>Vietnam · Working worldwide"
   },
   "vi": {
@@ -169,14 +169,14 @@ const translations = {
     "form_launch": "Ngày dự kiến ra mắt",
     "form_message": "Hãy chia sẻ về dự án của bạn *",
     "form_submit": "Gửi dự án",
-    "phone_zalo": "Điện thoại / Zalo: 0355219615",
+    "phone_zalo": "Điện thoại / Zalo / WhatsApp: 0355219615",
     "copyright": "© 2026 Jency. Đã đăng ký bản quyền.",
     "footer_role": "Full-Stack Marketer Nhà thiết kế & phát triển website độc lập",
     "location_label": "Địa điểm",
-    "phone_label": "Điện thoại / Zalo",
+    "phone_label": "Điện thoại / Zalo / WhatsApp",
     "email_label": "Email",
     "footer_role_html": "Full-Stack Marketer<br>Nhà thiết kế &amp; phát triển website độc lập",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Điện thoại / Zalo: 0355219615</a><br>Việt Nam · Làm việc với khách hàng toàn cầu",
+    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">Điện thoại / Zalo / WhatsApp: 0355219615</a><br>Việt Nam · Làm việc với khách hàng toàn cầu",
     "contact_location_html": "<strong>Địa điểm</strong><br>Việt Nam · Làm việc với khách hàng toàn cầu"
   },
   "ko": {
@@ -259,14 +259,14 @@ const translations = {
     "form_launch": "목표 출시일",
     "form_message": "프로젝트에 대해 알려주세요 *",
     "form_submit": "프로젝트 보내기",
-    "phone_zalo": "전화 / Zalo: 0355219615",
+    "phone_zalo": "전화 / Zalo / WhatsApp: 0355219615",
     "copyright": "© 2026 Jency. All rights reserved.",
     "footer_role": "풀스택 마케터 독립 웹 디자이너 & 개발자",
     "location_label": "위치",
-    "phone_label": "전화 / Zalo",
+    "phone_label": "전화 / Zalo / WhatsApp",
     "email_label": "이메일",
     "footer_role_html": "풀스택 마케터<br>독립 웹 디자이너 &amp; 개발자",
-    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">전화 / Zalo: 0355219615</a><br>베트남 · 전 세계 협업 가능",
+    "footer_contact_html": "<a href=\"mailto:vuhongtrinh12@gmail.com\">vuhongtrinh12@gmail.com</a><br><a href=\"tel:0355219615\">전화 / Zalo / WhatsApp: 0355219615</a><br>베트남 · 전 세계 협업 가능",
     "contact_location_html": "<strong>위치</strong><br>베트남 · 전 세계 협업 가능"
   }
 };
